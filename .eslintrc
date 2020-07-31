@@ -17,7 +17,8 @@
     "keyword-spacing": "off",
     "max-len": "off",
     "padded-blocks": "off",
-    "no-trailing-spaces": "off"
+    "no-trailing-spaces": "off",
+    "no-empty": "off"
   },
   "extends": ["eslint:recommended", "google"]
 }
